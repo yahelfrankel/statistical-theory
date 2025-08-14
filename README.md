@@ -13,7 +13,7 @@ This repository contains all materials related to the project, including:
 You can easily run the entire notebook using Google Colab by following these steps:
 
 1. Click this link to open the notebook in Google Colab:  
-   [Open Notebook](https://colab.research.google.com/github/yahelfrankel/statistical_theory/blob/main/statistical_theory_notebook.ipynb)
+   [Open Notebook](https://colab.research.google.com/github/yahelfrankel/statistical-theory/blob/main/statistical_theory_notebook.ipynb)
 
 2. Sign in with your Google account.
 
