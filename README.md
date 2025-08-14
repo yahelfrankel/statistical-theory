@@ -3,10 +3,10 @@
 
 This repository contains all materials related to the project, including:
 
-- The full analysis notebook.
-- The dataset obtained from Kaggle (licensed under CC0 Public Domain).
+- `statistical_theory_notebook.ipynb` - The full analysis notebook.
+- `adult.csv` - The dataset obtained from Kaggle (licensed under CC0 Public Domain).
 - The presentation for the first part of the project.
-- The full written paper describing the study.
+- `statistical_theory_article.pdf` - The full written paper describing the study.
 
 ## Running the Analysis in Google Colab
 
